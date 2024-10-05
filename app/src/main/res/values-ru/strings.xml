@@ -1,0 +1,75 @@
+<resources xmlns:tools="http://schemas.android.com/tools"  tools:ignore="MissingTranslation">
+    <string name="app_name">Simple Markdown</string>
+    <string name="app_name_short">Маркдаун</string>
+
+    <string name="title_editor">Редактор</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_help">Справочник</string>
+    <string name="title_about">Информация</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_preview">Предпросмотр</string>
+    <string name="ok">OK</string>
+    <string name="markdown_here">Маркдаун здесь…</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_editor_actions">Действия редактора</string>
+    <string name="action_share">Поделиться</string>
+    <string name="share_file">Поделиться файлом с…</string>
+    <string name="file_saved">Успешно сохранено %1$s</string>
+    <string name="file_save_error">Возникла ошибка при сохранении файла</string>
+    <string name="file_loaded">Успешно загружено %1$s</string>
+    <string name="file_load_error">Возникла ошибка при открытии файла</string>
+    <string name="action_back">Назад</string>
+    <string name="action_menu">Главное меню</string>
+    <string name="action_new">Создать</string>
+    <string name="action_open">Открыть</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="pref_title_autosave">Автосохранение</string>
+    <string name="action_lock_swipe">Не ёрзать</string>
+    <string name="action_privacy">Конфиденциальность</string>
+    <string name="pref_title_error_reports">Автоотчеты об ошибках</string>
+    <string name="pref_error_reports_off">Отключена отправка отчётов об ошибках</string>
+    <string name="pref_error_reports_on">Включена отправка отчётов об ошибках</string>
+    <string name="pref_title_analytics">Отправлять аналитику</string>
+    <string name="pref_analytics_off">Отключена отправка аналитики событий</string>
+    <string name="pref_analytics_on">Включена отправка аналитики событий</string>
+    <string name="action_force_crash">Принудительный сбой</string>
+    <string name="description_force_crash">Сломать приложение для тестирования</string>
+    <string name="pref_title_readability">Подсветка читаемости(пока пробуется)</string>
+    <string name="pref_readability_off">Отключена подсветка читаемости</string>
+    <string name="pref_readability_on">Включена подсветка читаемости</string>
+    <string name="pref_autosave_on">Включено автосохранение файлов</string>
+    <string name="pref_autosave_off">Отключено автосохранение файлов</string>
+    <string name="title_dark_mode">Цветовой режим</string>
+    <string name="pref_value_light">Светлый</string>
+    <string name="pref_value_dark">Тёмный </string>
+<!--    <string name="pref_value_auto">Авто</string>-->
+    <string name="pref_key_dark_mode_light" translatable="false">светлый</string>
+    <string name="pref_key_dark_mode_dark" translatable="false">тёмный</string>
+    <string name="pref_key_dark_mode_auto" translatable="false">авто</string>
+    <string name="prompt_save_changes">Хотите сохранить изменения?</string>
+    <string name="action_save_as">Сохранить как…</string>
+    <string name="support_info">SimpleMarkdown - мой личный проект, который я разрабатываю и
+		поддерживаю в свободное время.  Я очень ценю любую поддержку,
+		будь то помощь в дизайне приложения или иконок, добавление
+		переводов на другие языки, вклад в код или совет. Если у вас
+		возникнут проблемы с SimpleMarkdown, пожалуйста, свяжитесь со
+		мной, а если вы еще не сделали этого, пожалуйста, оцените
+		приложение в Play Store.\nИмейте в виду, что советы по покупке
+		внутри приложения не разблокируют никакие другие функции в
+		приложении. SimpleMarkdown был и остается полностью 
+		бесплатным и с открытым исходным кодом!</string>
+    <string name="action_view_github">Глянуть SimpleMarkdown на Гитхабе</string>
+    <string name="support_title">Помочь SimpleMarkdown</string>
+    <string name="action_rate">Оценить SimpleMarkdown</string>
+<!--    <string-array name="pref_entries_dark_mode">-->
+<!--        <item>@string/pref_value_light</item>-->
+<!--        <item>@string/pref_value_dark</item>-->
+<!--        <item>@string/pref_value_auto</item>-->
+<!--    </string-array>-->
+    <string-array name="pref_values_dark_mode">
+        <item>@string/pref_key_dark_mode_light</item>
+        <item>@string/pref_key_dark_mode_dark</item>
+        <item>@string/pref_key_dark_mode_auto</item>
+    </string-array>
+</resources>
